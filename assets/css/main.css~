@@ -3812,24 +3812,3 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
-
-h2{
-	font-family:allu,cursive !important;
-	text-transform: none !important;
-	font-size: 2.75em !important;
-	letter-spacing: 0.0em;
-	font-weight: normal;
-}
-
-
-
-	@font-face {
-	font-family:"allu";
-	src:url("fonts/Allura-Regular.ttf");
-	}
-
-
-@font-face {
-font-family: "Ari";
-src:url("fonts/Arizonia-Regular.ttf");
-}
